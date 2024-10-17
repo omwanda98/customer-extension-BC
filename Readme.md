@@ -18,7 +18,10 @@ Below are some screenshots demonstrating the project:
 ![Screenshot 3](images/GCOM3.PNG)
 
 ### Screenshot 3:
-![Screenshot 3](images/gcom4.PNG)
+![Screenshot 4](images/gcom4.PNG)
+
+### Install Code update
+![Screenshot 5](images/grencom6.PNG)
 
 
 ## Publishing CTRL+F5
